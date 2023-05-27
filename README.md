@@ -1,0 +1,1 @@
+# This is a react native app with node js as backend and mongodb which is used for viewing and uploading reports
