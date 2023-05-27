@@ -4,12 +4,12 @@
     "slug": "AVR",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./App/assets/AVRlogo.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./App/assets/SplashScreen.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#f8f1f1"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -22,12 +22,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "foregroundImage": "./App/assets/SplashScreen.png",      
+        "backgroundColor": "#f8f1f1"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./App/assets/AVRlogo.png"
     }
   }
 }
